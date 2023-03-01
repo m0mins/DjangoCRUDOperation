@@ -5,6 +5,7 @@
 */migrations/*
 
 # Ignore static files
+
 /static/
 
 # Ignore media files
